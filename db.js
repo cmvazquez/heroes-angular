@@ -2,7 +2,6 @@ const heroes = [
   {
     id: 'HeroAslaug',
     name: 'Aslaug',
-    description: 'warrior queen',
   },
   {
     id: 'HeroBjorn',
